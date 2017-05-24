@@ -1,8 +1,10 @@
 # Spatial transformer networks
 Implementation of spatial transformer networks in keras 2.0 using tensorflow 1.0 as backend.
 
+## Networks structure
 ![alt tag](images/transformation.png)
 
+## Some results of Layer's approach
 ![alt tag](images/results.jpg)
 
 ## Functional API usage

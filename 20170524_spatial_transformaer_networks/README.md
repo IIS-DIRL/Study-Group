@@ -14,3 +14,4 @@ locnet = Lambda(lambda x: spatial_transformer(affine_transformation=x,
                                               output_size=(30,30)),
                 output_shape = (30,30,1))(locnet)
 ```
+This code is modified by silver from sources [oarriaga](https://github.com/oarriaga/spatial_transformer_networks) and [seya](https://github.com/EderSantana/seya/blob/master/examples/Spatial%20Transformer%20Networks.ipynb).

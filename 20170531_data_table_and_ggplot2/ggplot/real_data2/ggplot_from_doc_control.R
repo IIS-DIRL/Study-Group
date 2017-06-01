@@ -2,7 +2,9 @@ library(data.table)
 library(ggplot2)
 library(gsheet)
 
-setwd("C:\\Users\\Fred yu\\Dropbox\\Side_proj\\study_group\\DataTable_ggplot\\real_data2")
+###
+# PATH should change to this folder (data folder)
+###
 
 # Color control
 color_table <- readRDS("category1_color_table.rds")

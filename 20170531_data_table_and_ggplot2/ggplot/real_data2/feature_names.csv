@@ -1,0 +1,346 @@
+feature.eng,feature.chn
+productID,商品編號
+cat2.max.4wk.sale,最大銷類第二層類別
+sales.1d,首日銷量
+sales.1wk,首週銷量
+sales.4wk,首月銷量
+sales.12wk,首季銷量
+hl.50,新書銷售生命週期
+hl.75,新書銷售生命週期
+attraction.1d,首日關注度
+attraction.1wk,首週關注度
+attraction.4wk,首月關注度
+attraction.12wk,首季關注度
+turnover.1d,首日成交率
+turnover.1wk,首週成交率
+turnover.4wk,首月成交率
+turnover.12wk,首季成交率
+diversity,跨分類吸引力
+price.set,定價
+price.first,售價
+ratio.discount,售定價折扣比
+n.page,頁數
+price.per.page,每頁價格
+price.per.page.nc.np,非彩印非平裝每頁價格
+price.per.page.nc.p,非彩印平裝每頁價格
+price.per.page.c.np,彩印非平裝每頁價格
+price.per.page.c.p,彩印平裝每頁價格
+is.first.edition,是否為初版
+is.translated,是否為翻譯書
+ratio.punct.in.title,書名標點符號比例
+is.pub.in.spring,是否在春季出版
+is.pub.in.summer,是否在夏季出版
+is.pub.in.autumn,是否在秋季出版
+is.pub.in.winter,是否在冬季出版
+is.pub.in.summer.vacation,是否在暑假出版
+is.pub.in.weekends,是否在週末出版
+is.paperback,是否為平裝書
+is.color.printed,是否為彩色印刷
+n.cat1,所屬第一層類別個數
+n.cat2,所屬第二層類別個數
+n.cat3,所屬第三層類別個數
+pub.entropy.cat1,所屬出版社之出版多樣性
+pub.n.books,所屬出版社之出版量
+pub.ratio.01,所屬出版社之文學小說出版比例
+pub.ratio.02,所屬出版社之商業理財出版比例
+pub.ratio.03,所屬出版社之藝術設計出版比例
+pub.ratio.04,所屬出版社之人文史地出版比例
+pub.ratio.05,所屬出版社之社會科學出版比例
+pub.ratio.06,所屬出版社之自然科普出版比例
+pub.ratio.07,所屬出版社之心理勵志出版比例
+pub.ratio.08,所屬出版社之醫療保健出版比例
+pub.ratio.09,所屬出版社之飲食出版比例
+pub.ratio.10,所屬出版社之生活風格出版比例
+pub.ratio.11,所屬出版社之旅遊出版比例
+pub.ratio.12,所屬出版社之宗教命理出版比例
+pub.ratio.13,所屬出版社之親子教養出版比例
+pub.ratio.14,所屬出版社之童書青少年文學出版比例
+pub.ratio.15,所屬出版社之輕小說出版比例
+pub.ratio.16,所屬出版社之漫畫出版比例
+pub.ratio.17,所屬出版社之語言學習出版比例
+pub.ratio.18,所屬出版社之考試用書出版比例
+pub.ratio.19,所屬出版社之電腦資訊出版比例
+pub.ratio.20,所屬出版社之政府出版品出版比例
+sales.cat1.1wk.mean,第一層類別同類書過去一週平均銷量
+sales.cat1.4wk.mean,第一層類別同類書過去四週平均銷量
+sales.cat2.1wk.mean,第二層類別同類書過去一週平均銷量
+sales.cat2.4wk.mean,第二層類別同類書過去四週平均銷量
+pct.price.cat1.1wk,定價於過去一週第一層同類書百分等級
+pct.price.cat1.4wk,定價於過去四週第一層同類書百分等級
+pct.n.page.cat1.1wk,頁數於過去一週第一層同類書百分等級
+pct.n.page.cat1.4wk,頁數於過去四週第一層同類書百分等級
+pct.price.cat2.1wk,定價於過去一週第二層同類書百分等級
+pct.price.cat2.4wk,定價於過去四週第二層同類書百分等級
+pct.n.page.cat2.1wk,頁數於過去一週第二層同類書百分等級
+pct.n.page.cat2.4wk,頁數於過去四週第二層同類書百分等級
+ratio.female.cat1.1wk,過去一週第一層同類書女性購買比例
+ratio.female.cat1.4wk,過去四週第一層同類書女性購買比例
+ratio.age12_15.cat1.1wk,過去一週第一層同類書12至15歲購買比例
+ratio.age12_15.cat1.4wk,過去四週第一層同類書12至15歲購買比例
+ratio.age16_18.cat1.1wk,過去一週第一層同類書16至18歲購買比例
+ratio.age16_18.cat1.4wk,過去四週第一層同類書16至18歲購買比例
+ratio.age19_22.cat1.1wk,過去一週第一層同類書19至22歲購買比例
+ratio.age19_22.cat1.4wk,過去四週第一層同類書19至22歲購買比例
+ratio.age23_29.cat1.1wk,過去一週第一層同類書23至29歲購買比例
+ratio.age23_29.cat1.4wk,過去四週第一層同類書23至29歲購買比例
+ratio.age30_39.cat1.1wk,過去一週第一層同類書30至39歲購買比例
+ratio.age30_39.cat1.4wk,過去四週第一層同類書30至39歲購買比例
+ratio.age40_49.cat1.1wk,過去一週第一層同類書40至49歲購買比例
+ratio.age40_49.cat1.4wk,過去四週第一層同類書40至49歲購買比例
+ratio.age50_65.cat1.1wk,過去一週第一層同類書50至65歲購買比例
+ratio.age50_65.cat1.4wk,過去四週第一層同類書50至65歲購買比例
+ratio.age19_24.cat1.1wk,過去一週第一層同類書19至24歲購買比例
+ratio.age19_24.cat1.4wk,過去四週第一層同類書19至24歲購買比例
+ratio.age25_29.cat1.1wk,過去一週第一層同類書25至29歲購買比例
+ratio.age25_29.cat1.4wk,過去四週第一層同類書25至29歲購買比例
+ratio.age30_34.cat1.1wk,過去一週第一層同類書30至34歲購買比例
+ratio.age30_34.cat1.4wk,過去四週第一層同類書30至34歲購買比例
+ratio.age35_39.cat1.1wk,過去一週第一層同類書35至39歲購買比例
+ratio.age35_39.cat1.4wk,過去四週第一層同類書35至39歲購買比例
+ratio.age40_44.cat1.1wk,過去一週第一層同類書40至44歲購買比例
+ratio.age40_44.cat1.4wk,過去四週第一層同類書40至44歲購買比例
+ratio.age45_49.cat1.1wk,過去一週第一層同類書45至49歲購買比例
+ratio.age45_49.cat1.4wk,過去四週第一層同類書45至49歲購買比例
+ratio.age50_54.cat1.1wk,過去一週第一層同類書50至54歲購買比例
+ratio.age50_54.cat1.4wk,過去四週第一層同類書50至54歲購買比例
+ratio.age55_59.cat1.1wk,過去一週第一層同類書55至59歲購買比例
+ratio.age55_59.cat1.4wk,過去四週第一層同類書55至59歲購買比例
+ratio.age60_65.cat1.1wk,過去一週第一層同類書60至65歲購買比例
+ratio.age60_65.cat1.4wk,過去四週第一層同類書60至65歲購買比例
+ratio.age_below_20.cat1.1wk,過去一週第一層同類書20歲以下購買比例
+ratio.age_below_20.cat1.4wk,過去四週第一層同類書20歲以下購買比例
+ratio.age_below_25.cat1.1wk,過去一週第一層同類書25歲以下購買比例
+ratio.age_below_25.cat1.4wk,過去四週第一層同類書25歲以下購買比例
+ratio.age_below_30.cat1.1wk,過去一週第一層同類書30歲以下購買比例
+ratio.age_below_30.cat1.4wk,過去四週第一層同類書30歲以下購買比例
+ratio.age_below_35.cat1.1wk,過去一週第一層同類書35歲以下購買比例
+ratio.age_below_35.cat1.4wk,過去四週第一層同類書35歲以下購買比例
+ratio.age_below_40.cat1.1wk,過去一週第一層同類書40歲以下購買比例
+ratio.age_below_40.cat1.4wk,過去四週第一層同類書40歲以下購買比例
+ratio.age_below_45.cat1.1wk,過去一週第一層同類書45歲以下購買比例
+ratio.age_below_45.cat1.4wk,過去四週第一層同類書45歲以下購買比例
+ratio.age_below_50.cat1.1wk,過去一週第一層同類書50歲以下購買比例
+ratio.age_below_50.cat1.4wk,過去四週第一層同類書50歲以下購買比例
+ratio.age_below_55.cat1.1wk,過去一週第一層同類書55歲以下購買比例
+ratio.age_below_55.cat1.4wk,過去四週第一層同類書55歲以下購買比例
+ratio.female.cat2.1wk,過去一週第二層同類書女性購買比例
+ratio.female.cat2.4wk,過去四週第二層同類書女性購買比例
+ratio.age12_15.cat2.1wk,過去一週第二層同類書12至15歲購買比例
+ratio.age12_15.cat2.4wk,過去四週第二層同類書12至15歲購買比例
+ratio.age16_18.cat2.1wk,過去一週第二層同類書16至18歲購買比例
+ratio.age16_18.cat2.4wk,過去四週第二層同類書16至18歲購買比例
+ratio.age19_22.cat2.1wk,過去一週第二層同類書19至22歲購買比例
+ratio.age19_22.cat2.4wk,過去四週第二層同類書19至22歲購買比例
+ratio.age23_29.cat2.1wk,過去一週第二層同類書23至29歲購買比例
+ratio.age23_29.cat2.4wk,過去四週第二層同類書23至29歲購買比例
+ratio.age30_39.cat2.1wk,過去一週第二層同類書30至39歲購買比例
+ratio.age30_39.cat2.4wk,過去四週第二層同類書30至39歲購買比例
+ratio.age40_49.cat2.1wk,過去一週第二層同類書40至49歲購買比例
+ratio.age40_49.cat2.4wk,過去四週第二層同類書40至49歲購買比例
+ratio.age50_65.cat2.1wk,過去一週第二層同類書50至65歲購買比例
+ratio.age50_65.cat2.4wk,過去四週第二層同類書50至65歲購買比例
+ratio.age19_24.cat2.1wk,過去一週第二層同類書19至24歲購買比例
+ratio.age19_24.cat2.4wk,過去四週第二層同類書19至24歲購買比例
+ratio.age25_29.cat2.1wk,過去一週第二層同類書25至29歲購買比例
+ratio.age25_29.cat2.4wk,過去四週第二層同類書25至29歲購買比例
+ratio.age30_34.cat2.1wk,過去一週第二層同類書30至34歲購買比例
+ratio.age30_34.cat2.4wk,過去四週第二層同類書30至34歲購買比例
+ratio.age35_39.cat2.1wk,過去一週第二層同類書35至39歲購買比例
+ratio.age35_39.cat2.4wk,過去四週第二層同類書35至39歲購買比例
+ratio.age40_44.cat2.1wk,過去一週第二層同類書40至44歲購買比例
+ratio.age40_44.cat2.4wk,過去四週第二層同類書40至44歲購買比例
+ratio.age45_49.cat2.1wk,過去一週第二層同類書45至49歲購買比例
+ratio.age45_49.cat2.4wk,過去四週第二層同類書45至49歲購買比例
+ratio.age50_54.cat2.1wk,過去一週第二層同類書50至54歲購買比例
+ratio.age50_54.cat2.4wk,過去四週第二層同類書50至54歲購買比例
+ratio.age55_59.cat2.1wk,過去一週第二層同類書55至59歲購買比例
+ratio.age55_59.cat2.4wk,過去四週第二層同類書55至59歲購買比例
+ratio.age60_65.cat2.1wk,過去一週第二層同類書60至65歲購買比例
+ratio.age60_65.cat2.4wk,過去四週第二層同類書60至65歲購買比例
+ratio.age_below_20.cat2.1wk,過去一週第二層同類書20歲以下購買比例
+ratio.age_below_20.cat2.4wk,過去四週第二層同類書20歲以下購買比例
+ratio.age_below_25.cat2.1wk,過去一週第二層同類書25歲以下購買比例
+ratio.age_below_25.cat2.4wk,過去四週第二層同類書25歲以下購買比例
+ratio.age_below_30.cat2.1wk,過去一週第二層同類書30歲以下購買比例
+ratio.age_below_30.cat2.4wk,過去四週第二層同類書30歲以下購買比例
+ratio.age_below_35.cat2.1wk,過去一週第二層同類書35歲以下購買比例
+ratio.age_below_35.cat2.4wk,過去四週第二層同類書35歲以下購買比例
+ratio.age_below_40.cat2.1wk,過去一週第二層同類書40歲以下購買比例
+ratio.age_below_40.cat2.4wk,過去四週第二層同類書40歲以下購買比例
+ratio.age_below_45.cat2.1wk,過去一週第二層同類書45歲以下購買比例
+ratio.age_below_45.cat2.4wk,過去四週第二層同類書45歲以下購買比例
+ratio.age_below_50.cat2.1wk,過去一週第二層同類書50歲以下購買比例
+ratio.age_below_50.cat2.4wk,過去四週第二層同類書50歲以下購買比例
+ratio.age_below_55.cat2.1wk,過去一週第二層同類書55歲以下購買比例
+ratio.age_below_55.cat2.4wk,過去四週第二層同類書55歲以下購買比例
+is.series,是否為系列書
+is.limited,是否為限量書
+is.new.edition,是否為新版
+is.gift,是否含有贈品
+n.pics,預覽圖片數量
+n.words.title,書名字數
+ratio.chn.title,書名中文比例
+ratio.digit.title,書名數字比例
+ratio.ques.title,書名問號比例
+ratio.exclam.title,書名驚嘆號比例
+n.words.preface,序言字數
+ratio.chn.preface,序言中文比例
+ratio.digit.preface,序言數字比例
+ratio.ques.preface,序言問號比例
+ratio.exclam.preface,序言驚嘆號比例
+n.words.tb,目錄字數
+ratio.chn.tb,目錄中文比例
+ratio.digit.tb,目錄數字比例
+ratio.ques.tb,目錄問號比例
+ratio.exclam.tb,目錄驚嘆號比例
+n.words.content,內容簡介字數
+ratio.chn.content,內容簡介中文比例
+ratio.digit.content,內容簡介數字比例
+ratio.ques.content,內容簡介問號比例
+ratio.exclam.content,內容簡介驚嘆號比例
+n.words.author,作者介紹字數
+ratio.chn.author,作者介紹中文比例
+ratio.digit.author,作者介紹數字比例
+ratio.ques.author,作者介紹問號比例
+ratio.exclam.author,作者介紹驚嘆號比例
+n.enhanced.content,內容簡介強調次數
+n.colored.content,內容簡介彩色強調次數
+n.recommend.content,內容簡介「推薦」類關鍵字數量
+has.okapi,是否有OKAPI連結
+best.seller.index,暢銷指數
+n.authorize.content,內容簡介「權威」類關鍵字數量
+n.touching.content,內容簡介「感動」類關鍵字數量
+n.award.content,內容簡介「得獎」類關鍵字數量
+f_01,涵蓋七成邊緣之畫面佔比 (Area of the centric region containing 70% of edge pixels)
+f_02.1,封面平均色調 (Mean of hue)
+f_02.2,封面色調標準差 (Standard deviation of vhue)
+f_02.3,封面色調值域 (Range of hue)
+f_02.4,封面平均明度 (Mean of value)
+f_02.5,封面明度標準差 (Standard deviation of value)
+f_02.6,封面明度值域 (Range of value)
+f_02.7,封面平均飽合度 (Mean of saturation)
+f_02.8,封面飽合度標準差 (Standard deviation of saturation)
+f_02.9,封面飽合度值域 (Range of saturation)
+f_03.1,封面色調對比 (Hue contrast)
+f_03.2,封面色調數量 (Hue count)
+f_03.3,封面色調頻率 (Hue frequency)
+f_04.1,封面第一大區域平均色調 (Mean value of hue in the 1st largest regions)
+f_04.2,封面第一大區域平均飽合度 (Mean value of saturation in the 1st largest regions)
+f_04.3,封面第一大區域平均明度 (Mean value of value in the 1st largest regions)
+f_04.4,封面第二大區域平均色調 (Mean value of hue in the 2nd largest regions)
+f_04.5,封面第二大區域平均飽合度 (Mean value of saturation in the 2nd largest regions)
+f_04.6,封面第二大區域平均明度 (Mean value of value in the 2nd largest regions)
+f_04.7,封面第三大區域平均色調 (Mean value of hue in the 3rd largest regions)
+f_04.8,封面第三大區域平均飽合度 (Mean value of saturation in the 3rd largest regions)
+f_04.9,封面第三大區域平均明度 (Mean value of value in the 3rd largest regions)
+f_05,封面模糊度 (Blurriness)
+f_06.1,封面中央區域平均色調 (Mean of hue in the center region)
+f_06.2,封面中央區域平均飽合度 (Mean of saturation in the center region)
+f_06.3,封面中央區域平均明度 (Mean of value in the center region)
+f_06.4,封面中央區域色調標準差 (Standard deviation of hue in the center region)
+f_06.5,封面中央區域飽合度標準差 (Standard deviation ofsaturation in the center region)
+f_06.6,封面中央區域明度標準差 (Standard deviation ofvalue in the center region)
+f_07,封面前五大區域色調平均距離 (Average hue distance between the five largest regions)
+f_09,平均暗色比例 (Dark mean)
+f_10.1,封面色調景深 (Depth of field of hue image)
+f_10.2,封面飽合度景深 (Depth of field of saturation image)
+f_10.3,封面明度景深 (Depth of field of value image)
+f_11_d20.1,"封面紋理清晰程度 (Level 1 pyramid histogram of oriented gradients (PHOG), bin 1)"
+f_11_d20.2,"封面紋理清晰程度 (Level 1 pyramid histogram of oriented gradients (PHOG), bin 2)"
+f_11_d20.3,"封面紋理清晰程度 (Level 1 pyramid histogram of oriented gradients (PHOG), bin 3)"
+f_11_d20.4,"封面紋理清晰程度 (Level 1 pyramid histogram of oriented gradients (PHOG), bin 4)"
+f_11_d20.5,"封面紋理清晰程度 (Level 1 pyramid histogram of oriented gradients (PHOG), bin 5)"
+f_11_d20.6,"封面紋理清晰程度 (Level 1 pyramid histogram of oriented gradients (PHOG), bin 6)"
+f_11_d20.7,"封面紋理清晰程度 (Level 1 pyramid histogram of oriented gradients (PHOG), bin 7)"
+f_11_d20.8,"封面紋理清晰程度 (Level 1 pyramid histogram of oriented gradients (PHOG), bin 8)"
+f_11_d20.9,"封面紋理清晰程度 (Level 1 pyramid histogram of oriented gradients (PHOG), bin 9)"
+f_11_d20.10,"封面紋理清晰程度 (Level 1 pyramid histogram of oriented gradients (PHOG), bin 10)"
+f_11_d20.11,"封面紋理清晰程度 (Level 1 pyramid histogram of oriented gradients (PHOG), bin 11)"
+f_11_d20.12,"封面紋理清晰程度 (Level 1 pyramid histogram of oriented gradients (PHOG), bin 12)"
+f_11_d20.13,"封面紋理清晰程度 (Level 1 pyramid histogram of oriented gradients (PHOG), bin 13)"
+f_11_d20.14,"封面紋理清晰程度 (Level 1 pyramid histogram of oriented gradients (PHOG), bin 14)"
+f_11_d20.15,"封面紋理清晰程度 (Level 1 pyramid histogram of oriented gradients (PHOG), bin 15)"
+f_11_d20.16,"封面紋理清晰程度 (Level 1 pyramid histogram of oriented gradients (PHOG), bin 16)"
+f_11_d20.17,"封面紋理清晰程度 (Level 1 pyramid histogram of oriented gradients (PHOG), bin 17)"
+f_11_d20.18,"封面紋理清晰程度 (Level 1 pyramid histogram of oriented gradients (PHOG), bin 18)"
+f_11_d20.19,"封面紋理清晰程度 (Level 1 pyramid histogram of oriented gradients (PHOG), bin 19)"
+f_11_d20.20,"封面紋理清晰程度 (Level 1 pyramid histogram of oriented gradients (PHOG), bin 20)"
+f_12.1,封面ROI平均色調 (Mean values of hue in ROI)
+f_12.2,封面ROI平均飽和度 (Mean values of saturation in ROI)
+f_12.3,封面ROI平均明度 (Mean values of value in ROI)
+f_13_d4.1,"封面轉灰階黑灰色佔比 (Grey intensity histogram, bin 1)"
+f_13_d4.2,"封面轉灰階深灰色佔比 (Grey intensity histogram, bin 2)"
+f_13_d4.3,"封面轉灰階淺灰色佔比 (Grey intensity histogram, bin 3)"
+f_13_d4.4,"封面轉灰階灰白色佔比 (Grey intensity histogram, bin 4)"
+f_14_d4.1,"封面紅黃色佔比 (Hue histogram, bin 1)"
+f_14_d4.2,"封面綠色佔比 (Hue histogram, bin 2)"
+f_14_d4.3,"封面藍色佔比 (Hue histogram, bin 3)"
+f_14_d4.4,"封面紫紅色佔比 (Hue histogram, bin 4)"
+f_15.1,封面第一大區域面積佔比 (Ratios of areas of the 1st largest region to the whole image)
+f_15.2,封面第二大區域面積佔比 (Ratios of areas of the 2nd largest region to the whole image)
+f_15.3,封面第三大區域面積佔比 (Ratios of areas of the 3rd largest region to the whole image)
+f_16.1,"封面第一大區域座標向量X軸值 (Coordinate vector of the largest region, X-axis)"
+f_16.2,"封面第一大區域座標向量Y軸值 (Coordinate vector of the largest region, Y-axis)"
+f_17.1,封面第一大區域空間變異度 (Spatial variance of the 3rd largest region)
+f_17.2,封面第二大區域空間變異度 (Spatial variance of the 3rd largest region)
+f_17.3,封面第三大區域空間變異度 (Spatial variance of the 3rd largest region)
+f_18,封面圖像佔全影像10%以上的物件數 (Number of regions whose areas are larger than 10% of the whole image)
+f_19,封面前五大區域面積佔比 (Ratio of the total area of the five largest region to the whole image)
+f_20,ROI於九宮格(三分法photography)的比重 (ROI weighted by rule of thirds)
+f_21,對角邊際 (Diagonal edges)
+f_22.1,水平線平均位置 (Mean position of horizontal lines)
+f_22.2,水平線平均斜率 (Mean slope of horizontal lines)
+f_22.3,垂直線平均位置 (Mean position of vertical lines)
+f_22.4,垂直線平均斜率 (Mean slope of vertical lines)
+f_23,邊界於三分法中權重 (Sum of edge magnitudes weighted by rule of thirds)
+f_24,封面左右對稱度 (visual symmetry)
+f_25_d4.1,"封面低紅光佔比 (Histogram of R, bin 1)"
+f_25_d4.2,"封面中低紅光佔比 (Histogram of R, bin 2)"
+f_25_d4.3,"封面中高紅光佔比 (Histogram of R, bin 3)"
+f_25_d4.4,"封面高紅光佔比(Histogram of R, bin 4)"
+f_26_d4.1,"封面低綠光佔比 (Histogram of G, bin 1)"
+f_26_d4.2,"封面中低綠光佔比 (Histogram of G, bin 2)"
+f_26_d4.3,"封面中高綠光佔比 (Histogram of G, bin 3)"
+f_26_d4.4,"封面高綠光佔比(Histogram of G, bin 4)"
+f_27_d4.1,"封面低藍光佔比 (Histogram of B, bin 1)"
+f_27_d4.2,"封面中低藍光佔比 (Histogram of B, bin 2)"
+f_27_d4.3,"封面中高藍光佔比 (Histogram of B, bin 3)"
+f_27_d4.4,"封面高藍光佔比(Histogram of B, bin 4)"
+f_28,封面頭像面積佔比 (Ratio of area of the avatar)
+f_29,封面最大頭像面積佔比 (Ratio of top area of the avatar)
+f_31_d4.1,"封面低飽和度佔比 (Saturation histogram, bin 1)"
+f_31_d4.2,"封面中低飽和度佔比 (Saturation histogram, bin 2)"
+f_31_d4.3,"封面中高飽和度佔比 (Saturation histogram, bin 3)"
+f_31_d4.4,"封面高飽和度佔比 (Saturation histogram, bin 4)"
+f_32_d4.1,"封面低明度佔比 (Value histogram, bin 1)"
+f_32_d4.2,"封面中低明度佔比 (Value histogram, bin 2)"
+f_32_d4.3,"封面中高明度佔比 (Value histogram, bin 3)"
+f_32_d4.4,"封面高明度佔比 (Value histogram, bin 4)"
+f_33_d4.1,"封面色彩低明度佔比 (L histogram, bin 1)"
+f_33_d4.2,"封面色彩中低明度佔比 (L histogram, bin 2)"
+f_33_d4.3,"封面色彩中高明度佔比 (L histogram, bin 3)"
+f_33_d4.4,"封面色彩高明度佔比 (L histogram, bin 4)"
+f_34_d4.1,"封面綠色佔比 (A histogram, bin 1)"
+f_34_d4.2,"封面淡綠色佔比 (A histogram, bin 2)"
+f_34_d4.3,"封面淡紅色佔比 (A histogram, bin 3)"
+f_34_d4.4,"封面紅色佔比 (A histogram, bin 4)"
+f_35_d4.1,"封面黃色佔比 (B histogram, bin 1)"
+f_35_d4.2,"封面淡黃色佔比 (B histogram, bin 2)"
+f_35_d4.3,"封面淡藍色佔比 (B histogram, bin 3)"
+f_35_d4.4,"封面藍色佔比 (B histogram, bin 4)"
+f_36_d4.1,"封面淡藍綠色佔比 (C histogram, bin 1)"
+f_36_d4.2,"封面淺藍綠色佔比 (C histogram, bin 2)"
+f_36_d4.3,"封面藍綠色佔比 (C histogram, bin 3)"
+f_36_d4.4,"封面深藍綠色佔比 (C histogram, bin 4)"
+f_37_d4.1,"封面淡紅色佔比 (M histogram, bin 1)"
+f_37_d4.2,"封面淺紅色佔比 (M histogram, bin 2)"
+f_37_d4.3,"封面紅色佔比 (M histogram, bin 3)"
+f_37_d4.4,"封面深紅色佔比 (M histogram, bin 4)"
+f_38_d4.1,"封面淡黃色佔比 (Y histogram, bin 1)"
+f_38_d4.2,"封面淺黃色佔比 (Y histogram, bin 2)"
+f_38_d4.3,"封面黃色佔比 (Y histogram, bin 3)"
+f_38_d4.4,"封面深黃色佔比 (Y histogram, bin 4)"
+f_39_d4.1,"封面淡黑色佔比 (K histogram, bin 1)"
+f_39_d4.2,"封面淺黑色佔比 (K histogram, bin 2)"
+f_39_d4.3,"封面黑色佔比 (K histogram, bin 3)"
+f_39_d4.4,"封面深黑色佔比 (K histogram, bin 4)"

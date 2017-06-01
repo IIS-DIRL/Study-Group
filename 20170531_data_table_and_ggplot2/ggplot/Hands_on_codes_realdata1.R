@@ -3,7 +3,10 @@ library(stringi)
 # for plot
 library(ggplot2)
 library(scales)
-setwd("C:\\Users\\Fred yu\\Dropbox\\Side_proj\\study_group\\DataTable_ggplot")
+
+###
+# PATH should change to this folder #
+###
 
 # real dataset
 df.allshop.info <- readRDS("real_data.rds")
